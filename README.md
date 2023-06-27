@@ -3,4 +3,4 @@
 npm install
 
 
-add mongo string connexion to .env
+add mongo string connection to .env
